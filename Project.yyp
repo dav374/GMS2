@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "5964b1c4-03b7-44ee-b7b9-dad8cbeb0283",
+            "Value": {
+                "id": "08d5edb1-7352-4319-9186-7efb9eb18450",
+                "resourcePath": "rooms\\room_0\\room_0.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "70d3f5c9-71fd-4aac-9ab9-18b474dab7e8",
             "Value": {
                 "id": "07ed84f1-bace-4b2f-ad34-220e49bd4c64",
@@ -132,6 +140,14 @@
                 "id": "7847363c-82ac-4a09-8fd4-76222c2bf0f5",
                 "resourcePath": "views\\822caeb8-4eda-4cbb-ba08-f52ccc44fe5c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "89723156-7552-4c2c-b24a-c141cf1bdaa6",
+            "Value": {
+                "id": "77237618-5f32-4af8-a7eb-baaf158c198c",
+                "resourcePath": "sprites\\spr_green_tree\\spr_green_tree.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -175,11 +191,27 @@
             }
         },
         {
+            "Key": "c48239ea-f727-43f6-aed1-b853a368ccb0",
+            "Value": {
+                "id": "ac86310b-4447-4029-b138-e51183991921",
+                "resourcePath": "tilesets\\til_green_tree\\til_green_tree.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "398c4ca8-efb7-4fe2-87ce-c6c4d5be7414",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "dc1843b1-10e3-4f2a-9a73-f6d4ac192f8c",
+            "Value": {
+                "id": "478c529a-6008-4354-be57-abbf0fa216b7",
+                "resourcePath": "sprites\\bg_grass640x640\\bg_grass640x640.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
