@@ -5,7 +5,8 @@
     "name": "11d87c99-ce5f-401a-99c9-5bef9a92cfa9",
     "children": [
         "c560f56f-3172-42b7-ad43-b4cb355fc4e6",
-        "5964b1c4-03b7-44ee-b7b9-dad8cbeb0283"
+        "5964b1c4-03b7-44ee-b7b9-dad8cbeb0283",
+        "7aeae4ad-6acb-493f-aaba-5886e6cf3a1a"
     ],
     "filterType": "GMRoom",
     "folderName": "rooms",
